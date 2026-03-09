@@ -1,4 +1,4 @@
-# Model Card — Medical Insurance Pricing Model
+# Medical Insurance Pricing Model
 
 ## Model Overview
 
